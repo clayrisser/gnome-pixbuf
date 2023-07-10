@@ -4,6 +4,8 @@
 
 > typescript bindings for gnome pixbuf
 
+![](assets/gnome-pixbuf.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
